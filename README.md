@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mood_pattern_detector
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# mood-pattern-detector
+"Flutter app that tracks emotional patterns"
+>>>>>>> 29c2d5b156a2512bc4463c5db8204a891ccde420
